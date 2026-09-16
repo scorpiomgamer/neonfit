@@ -1,0 +1,7 @@
+{
+  "name": "NeonFit",
+  "description": "App de progreso en el GYM con registro de peso y series, racha, gráficos de fuerza, temporizador de descanso, mapa muscular interactivo y sincronización.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
